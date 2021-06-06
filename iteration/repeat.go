@@ -7,3 +7,4 @@ func Repeat(letter string, repeatCount int) string {
 	}
 	return repeated
 }
+
