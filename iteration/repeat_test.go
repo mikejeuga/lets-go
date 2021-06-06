@@ -1,11 +1,11 @@
-package iteration
+package main
 
 import (
 	"fmt"
 	"testing"
 )
 
-func TestRepeater(t *testing.T) {
+func TestRepeat(t *testing.T) {
 	repeated := Repeat("a", 5)
 	expected := "aaaaa"
 
